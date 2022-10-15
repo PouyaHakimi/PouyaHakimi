@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PouyaHakimi
-- 👀 I’m interested in improving my knoledge
+- 👀 I’m interested in improving my knowledge
 - 🌱 I’m currently learning Computer Engineering courses
 - 💞️ I’m looking to collaborate on Web application
 - 📫 How to reach me +393517665383
